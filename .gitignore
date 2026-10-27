@@ -1,0 +1,9 @@
+# Generated VCS/DVE simulation files
+csrc/
+DVEfiles/
+simv
+simv.daidir/
+ucli.key
+*.vpd
+*.vcd
+*.log
